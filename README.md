@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sramanah
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, SQL and R
-- 💞️ I’m looking to collaborate on Python and R 
+- 🌱 I’m currently learning Python and R
+- 💞️ I’m looking to collaborate on Python, SQL and R 
 - 📫 How to reach me shaleenaramanah@live.com
 
 <!---
